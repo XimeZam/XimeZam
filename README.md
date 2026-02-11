@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I like rocks
 --
 - *Education* Currently studying earth sciences at UNAM
+
+Visita mi pagina web https://ximezam.github.io/
